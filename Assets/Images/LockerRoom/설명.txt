@@ -1,0 +1,27 @@
+<기본>
+- LockerRoom_Background / LockerRoom_Locker+Chair
+
+<문>
+가까이X
+- LockerRoom_Door_Closed
+가까이 있을 때
+- LockerRoom_Door_Opened
+
+<락커룸 미니게임 전>
+가까이X
+- LockerRoom_Locker_Closed
+가까이 있을 때
+- LockerRoom_Locker_Closed_Key_Select
+
+<락커룸 미니게임 후>
+(문 닫힌 상태)
+가까이X
+- LockerRoom_Locker_Closed
+가까이 있을 때
+- LockerRoom_Locker_Closed_Select
+
+(문 열린 상태)
+가까이X
+- LockerRoom_Locker_Opened
+가까이 있을 때
+- LockerRoom_Locker_Opened_Select

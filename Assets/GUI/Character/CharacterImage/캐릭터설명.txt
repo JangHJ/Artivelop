@@ -1,0 +1,9 @@
+Angella_마을 병원에 위치
+BabyFarmer,Child1,Child2_마을 보육원 앞에 위치
+Cemetery_마을 묘지 앞에 위치
+Director_GR_관리국 관리국장실에 위치
+Nick_관리국 의무실에 위치
+Regi1, Regi2_마을 주거지1 주택4에 위치
+Robin_숙직실 앞에 위치 (도넛 훔치고 말거는 NPC)
+Stephan_마을 도박장에 위치
+Linda_선택분기 벨라_3-2. 자기방어2에서 등장하는 연구원 NPC 폴라를 따라다니며 경호받아야 함.
